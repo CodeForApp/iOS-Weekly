@@ -75,16 +75,16 @@
 
 ## 官方微博
 
-*   [Code4App](http://weibo.com/code4app/)
+  ![Code4App](http://weibo.com/code4app/)
 
 ## 微信公众号
 
 微信号：code4app，目前关注人数 1400+ 人；
 
-  [](http://ww4.sinaimg.cn/mw690/6f5f9fe7gw1f8nk2qn0zjj2076076gm2.jpg)
+  ![](http://ww4.sinaimg.cn/mw690/6f5f9fe7gw1f8nk2qn0zjj2076076gm2.jpg)
 
 ## Code4APP 精英会，欢迎加入
 
-  [](http://ww1.sinaimg.cn/mw690/6f5f9fe7gw1f83kfr92wrj20ku0wtte2.jpg)
+  ![](http://ww1.sinaimg.cn/mw690/6f5f9fe7gw1f83kfr92wrj20ku0wtte2.jpg)
 
 
