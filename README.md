@@ -75,7 +75,7 @@
 
 ## 官方微博
 
-  ![Code4App](http://weibo.com/code4app/)
+  * [Code4App](http://weibo.com/code4app/)
 
 ## 微信公众号
 
